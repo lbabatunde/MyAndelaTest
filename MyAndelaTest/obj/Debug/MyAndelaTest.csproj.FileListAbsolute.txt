@@ -1,0 +1,10 @@
+C:\AutomationTesting\MyAndelaTest\MyAndelaTest\bin\Debug\MyAndelaTest.exe.config
+C:\AutomationTesting\MyAndelaTest\MyAndelaTest\bin\Debug\MyAndelaTest.exe
+C:\AutomationTesting\MyAndelaTest\MyAndelaTest\bin\Debug\MyAndelaTest.pdb
+C:\AutomationTesting\MyAndelaTest\MyAndelaTest\bin\Debug\WebDriver.dll
+C:\AutomationTesting\MyAndelaTest\MyAndelaTest\bin\Debug\WebDriver.xml
+C:\AutomationTesting\MyAndelaTest\MyAndelaTest\obj\Debug\MyAndelaTest.csprojAssemblyReference.cache
+C:\AutomationTesting\MyAndelaTest\MyAndelaTest\obj\Debug\MyAndelaTest.csproj.CoreCompileInputs.cache
+C:\AutomationTesting\MyAndelaTest\MyAndelaTest\obj\Debug\MyAndelaTest.csproj.CopyComplete
+C:\AutomationTesting\MyAndelaTest\MyAndelaTest\obj\Debug\MyAndelaTest.exe
+C:\AutomationTesting\MyAndelaTest\MyAndelaTest\obj\Debug\MyAndelaTest.pdb
